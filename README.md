@@ -1,7 +1,7 @@
-### Hi, I'm Luke 👋
-I'm currently a student studying CS @ University of Illinois Urbana-Champaign. 
+### Hi there, I'm Luke 👋
+I'm a student studying CS @ University of Illinois Urbana-Champaign. 
 
-I'm currently working on UIUC-ApartmentSeeker with [@mittal1787](https://github.com/mittal1787?tab=following)
+Currently, I'm working on UIUC-ApartmentSeeker with [@mittal1787](https://github.com/mittal1787?tab=following)
 <!--
 **lukezhang57/lukezhang57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
