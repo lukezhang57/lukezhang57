@@ -1,5 +1,5 @@
 ### Hi there, I'm Luke 👋
-###I'm a student studying CS @ University of Illinois Urbana-Champaign. 
+### I'm a student studying CS @ University of Illinois Urbana-Champaign. 
 
 Currently, I'm working on UIUC-ApartmentSeeker with [@mittal1787](https://github.com/mittal1787?tab=following)
 <!--
