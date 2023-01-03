@@ -1,7 +1,7 @@
 ### Hi there, I'm Luke 👋
 I'm a student studying Statistics & Computer Science @ University of Illinois Urbana-Champaign. 
 
-Currently, I'm making improvements to [UIUC-ApartmentSeeker](https://github.com/lukezhang57/UIUC-ApartmentSeeker) with [@mittal1787](https://github.com/mittal1787?tab=following)
+Currently, I'm making improvements to [UIUC-ApartmentSeeker](https://github.com/lukezhang57/UIUC-ApartmentSeeker) with [@mittal1787](https://github.com/mittal1787)
 
 You can reach me at: lukez4@illinois.edu
 <!--
