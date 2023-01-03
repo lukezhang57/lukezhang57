@@ -2,6 +2,8 @@
 I'm a student studying Statistics & Computer Science @ University of Illinois Urbana-Champaign. 
 
 Currently, I'm working on [UIUC-ApartmentSeeker](https://github.com/lukezhang57/UIUC-ApartmentSeeker) with [@mittal1787](https://github.com/mittal1787?tab=following)
+
+You can reach me at: lukez4@illinois.edu
 <!--
 **lukezhang57/lukezhang57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
