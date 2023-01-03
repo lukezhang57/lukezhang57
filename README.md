@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm Luke Zhang, and I'm a sophomore majoring in Statistics & Computer Science at the University of Illinois Urbana-Champaign.
+### Hi! I'm Luke 👋
+I'm currently a sophomore majoring in Statistics & Computer Science at the University of Illinois Urbana-Champaign.
 <!--
 **lukezhang57/lukezhang57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
