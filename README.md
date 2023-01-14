@@ -1,5 +1,5 @@
 ### Hi there, I'm Luke 👋
-I'm a student studying Statistics & Computer Science @ University of Illinois Urbana-Champaign. 
+I'm a student studying Computer Science and Statistics @ University of Illinois Urbana-Champaign. 
 
 Currently, I'm developing [UIUC-ApartmentSeeker](https://github.com/lukezhang57/UIUC-ApartmentSeeker) with [@mittal1787](https://github.com/mittal1787)
 
